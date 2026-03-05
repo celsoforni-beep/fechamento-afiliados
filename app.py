@@ -17,7 +17,7 @@ ECOM_ORDER_VALUE_COL = "Total Value"    # Normalmente repetido por item -> MAX p
 
 # >>> IMPORTANTE: ajuste para o nome exato da coluna de data na sua Plan Base <<<
 # Exemplos comuns: "Emission Date", "Order Date", "Created At", "Data Emissão"
-ECOM_EMISSION_DATE_COL = "Emission Date"
+ECOM_EMISSION_DATE_COL = "Creation D"
 
 # Plan Afiliados
 AFF_ORDER_COL = "Order ID"
